@@ -3,7 +3,7 @@ Repo with autonomous navigation labs in Sirius
 
 1. Linear Algebra
 2. Differential-Drive Robot Kinematics
-3. Bayes' Theorem
+3. Bayes' Theorem (not in repo)
 4. Differential-Drive Robot Odometry
 5. Laser Range Measurement Modeling
 6. Discrete Filters & Particle Filters
